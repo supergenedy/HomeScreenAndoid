@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Restart HomeScreen</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="please_check_connection">Check Your Internet Connection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map">Map</string>
+    <string name="hotspots">HotSpots</string>
+    <string name="attractions">Attractions</string>
+    <string name="events">Events</string>
+    <string name="iconnavhome">IconNavHome</string>
+    <string name="iconnavsearch">IconNavSearch</string>
+    <string name="iconnavprize">IconNavPrize</string>
+    <string name="iconnavprofile">IconNavProfile</string>
+    <string name="icon_bell_man">Icon Bell Man</string>
+    <string name="view_all">View all</string>
+    <string name="image_header">Image Header</string>
+    <string name="white_image_location">White Image Location</string>
+    <string name="you_are_in">You are in</string>
+    <string name="notifications_activity_button">Notifications Activity Button</string>
+    <string name="calender_activity_button">Calender Activity Button</string>
+    <string name="filter_data_button">Filter Data Button</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="item_imageview">Item ImageView</string>
+
+
+</resources>
